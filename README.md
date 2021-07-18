@@ -11,20 +11,22 @@ A completely responsive app built using flutter that maintains shows recipes.
 ***
 
 ## ScreenShots
-> Home Page
 
-![WhatsApp Image 2021-07-10 at 3 10 12 PM (3)](https://user-images.githubusercontent.com/69159108/125159055-a08cf800-e192-11eb-8bc7-c007d5dba0e1.jpeg)
+### HomePage
+![WhatsApp Image 2021-07-18 at 8 24 32 PM (3)](https://user-images.githubusercontent.com/69159108/126072046-d488937a-7459-40b0-9c88-0d7711ab0dc8.jpeg)
 
-(Home Page With Expense Cards)
+### Default Favourites Tab
+![WhatsApp Image 2021-07-18 at 8 24 32 PM (2)](https://user-images.githubusercontent.com/69159108/126072044-106a2ed6-2a70-407c-a36b-fe95c0c1ff8c.jpeg)
 
-![WhatsApp Image 2021-07-10 at 3 10 12 PM (1)](https://user-images.githubusercontent.com/69159108/125159058-a256bb80-e192-11eb-9e55-d0a491249fa6.jpeg)
+### Favorites Tab
+![WhatsApp Image 2021-07-18 at 8 24 57 PM](https://user-images.githubusercontent.com/69159108/126072056-c597f2c8-1be4-41f9-be3d-b7e90028e1ff.jpeg)
 
-(Scrollable Landscape Mode)
+### Filters Page
+![WhatsApp Image 2021-07-18 at 8 24 31 PM (1)](https://user-images.githubusercontent.com/69159108/126072060-bc5d22b9-b3ca-4d11-a2df-ca844894a1a7.jpeg)
 
-![WhatsApp Image 2021-07-10 at 3 10 12 PM](https://user-images.githubusercontent.com/69159108/125159056-a1258e80-e192-11eb-9ec6-606fbe9f1db8.jpeg)
+### Recipe Page
+![WhatsApp Image 2021-07-18 at 8 24 32 PM](https://user-images.githubusercontent.com/69159108/126072051-54f7cd2a-9ddc-4a57-b067-df752c28b15e.jpeg)
 
+### Recipe List
+![WhatsApp Image 2021-07-18 at 8 24 32 PM (1)](https://user-images.githubusercontent.com/69159108/126072069-6d294b37-e69f-432e-a208-e2b515b0e0bf.jpeg)
 
-***
-> New Expense
-
-![WhatsApp Image 2021-07-10 at 3 10 12 PM (2)](https://user-images.githubusercontent.com/69159108/125159059-a256bb80-e192-11eb-91cb-ee3cdf0c8cb3.jpeg)
